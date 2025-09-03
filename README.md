@@ -19,7 +19,7 @@ Pest_Classification_byUsing_CNN/
 └── README.md
 3. Dataset
 This project uses the IP102 pest dataset  
-Download it here: [IP102 Dataset on Kaggle](https://www.kaggle.com/datasets/lqdisme/ip102-insect-pest-dataset)
+Download it here: [[IP102 Dataset on Kaggle](https://www.kaggle.com/datasets/parserpixy/ip102-dataset)
 
 4. After downloading, place it inside `data/` folder like this:
 data/
